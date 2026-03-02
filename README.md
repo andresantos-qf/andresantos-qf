@@ -1,5 +1,3 @@
-[![Andre's GitHub stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=radical&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
-
 # Hi there, I'm Andre 👋
 
 **Quant Finance Freshman @ Stevens Institute of Technology '29**  
